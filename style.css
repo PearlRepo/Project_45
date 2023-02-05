@@ -1,0 +1,64 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  width:350px;
+  height:100px;
+  background-color: #0088f7;
+  border: 3px solid rgb(37, 72, 138);
+  color: rgb(29, 28, 28);
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.btn:hover{
+  background-color: #0088f793;
+  color: rgb(42, 43, 51);
+}
+
+.play {
+  width:350px;
+  height:100px;
+  background-color: #8cbe16;
+  border: 3px solid #567018;
+  color: rgb(29, 28, 28);
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.play:hover{
+  background-color: #8cbe169c;
+  color: rgb(42, 43, 51);
+}
+
+.gameTitleAfterEffect{
+  width: 20%;
+}
+
+.gameTitleAfterEffect2{
+  width: 60%;
+}
